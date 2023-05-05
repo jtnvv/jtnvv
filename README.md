@@ -1,6 +1,6 @@
 <h2 align="center">💫About Me :</h2>
 <h4 align="center">Hi 👋, I'm Jonathan</h4>
-<p align="center">i'm fullstack developer and student from Colombia</p>
+<p align="center">Fullstack developer</p>
 <p align="center">🌱i´m currently learning</p>
 <p align="center">🤠  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" \>  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" \></p>
 
