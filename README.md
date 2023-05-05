@@ -2,7 +2,7 @@
 <h4 align="center">Hi 👋, I'm Jonathan</h4>
 <p align="center">Fullstack developer</p>
 <p align="center">🌱i´m currently learning</p>
-<p align="center">🤠  <img href="https://www.instagram.com/jtndavid/" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" \>  <img href="https://www.linkedin.com/in/jtndavid/" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" \></p>
+<p align="center">🤠  <a href="https://www.instagram.com/jtndavid/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" \></a>  <a href="https://www.linkedin.com/in/jtndavid/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" \></a></p>
 
 <h2 align="center">💻Tech Stack</h2>
 <p align="center"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></p>
