@@ -1,6 +1,5 @@
 <h2 align="center">💫About Me :</h2>
-<h4 align="center">Hi 👋, I'm Jonathan</h4>
-<p align="center">Fullstack developer</p>
+<h4 align="center">Hi 👋, I'm Jonathan, software developer</h4> 
 <p align="center">🌱i´m currently learning</p>
 <p align="center">🤠  <a href="https://www.instagram.com/jtndavid/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" \></a>  <a href="https://www.linkedin.com/in/jtndavid/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" \></a></p>
 
