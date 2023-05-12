@@ -4,8 +4,8 @@ Hi 👋, I'm Jonathan, software developer 🇨🇴.
 - 🌱 i´m currently learning UX/UI.
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jtndavid&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtndavid&layout=compact&langs_count=16&theme=codeSTACKr"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jtndavid&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtndavid&layout=compact&langs_count=16&theme=codeSTACKr"/>
 </div>
 
 <div style="display: inline_block"><br>
