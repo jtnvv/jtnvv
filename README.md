@@ -1,10 +1,22 @@
-<h2 align="center">💫About Me :</h2>
-<h4 align="center">Hi 👋, I'm Jonathan, software developer</h4> 
-<p align="center">🌱i´m currently learning</p>
-<p align="center">🤠  <a href="https://www.instagram.com/jtndavid/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" \></a>  <a href="https://www.linkedin.com/in/jtndavid/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" \></a></p>
+Hi 👋, I'm Jonathan, software developer 🇨🇴.
 
-<h2 align="center">💻Tech Stack</h2>
-<p align="center"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtndavid&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"></p>
-<p align="center"><img src="https://visitcount.itsvg.in/api?id=jtndavid&icon=2&color=0"></p>
+- 🔭 interested in artificial intelligence and data science.
+- 🌱 i´m currently learning UX/UI.
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jtndavid&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtndavid&layout=compact&langs_count=16&theme=codeSTACKr"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  
+</div>
+
+---
+<div>
+  <a href="https://www.instagram.com/jtndavid/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jtndavid/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
