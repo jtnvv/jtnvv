@@ -1,4 +1,4 @@
-<img align="center" alt ="ss" src="https://raw.githubusercontent.com/jtnvv/jtnvv/refs/heads/main/back.jpg">
+<img align="center" alt ="ss" src="https://raw.githubusercontent.com/jtnvv/jtnvv/refs/heads/main/back2.jpg">
 Hi 👋, I'm Jonathan, software developer 🇨🇴.
 
 - 🔭 Artificial intelligence and data science.
